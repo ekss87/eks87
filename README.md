@@ -1,2 +1,2 @@
 # eks87
-Coba2
+Hanya code tak penting
